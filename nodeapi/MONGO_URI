@@ -1,0 +1,6 @@
+MONGO_URI=mongodb+srv://admin:social-network88@nodeapi.0khuu.mongodb.net/nodeapi?retryWrites=truenodeAPI?retryWrites=true
+PORT=8080
+JWT_SECRET=KASDFJKL3LS2JK3JSLKFG3JL12L
+CLIENT_URL=http://localhost:3000
+Â
+
